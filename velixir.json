@@ -1,0 +1,15 @@
+{
+  "name": "Rust",
+  "tagline": "A std-only HTTP listener on Rust 1.86.",
+  "description": "No tokio, no axum, no crates at all: a TcpListener and a hand-written response. That keeps the release build to seconds rather than minutes, which is the point of a starter.",
+  "language": "Rust",
+  "runtimeVersion": "1.86",
+  "accent": "#DEA584",
+  "tags": [
+    "No crates",
+    "Release build"
+  ],
+  "topics": [
+    "rust"
+  ]
+}
